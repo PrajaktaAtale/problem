@@ -1,0 +1,4 @@
+let arr = ["web-1305", "site-1305", "web-1304", "site-1304"]
+
+arr.sort()
+console.log(arr);
